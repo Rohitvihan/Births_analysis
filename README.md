@@ -27,6 +27,7 @@ Python
 Pandas for data manipulation and analysis
 
 Jupyter Notebook for code execution
+
 -----------------------------------------
 
 Data Analysis
@@ -49,7 +50,5 @@ Detailed outputs are displayed in the Jupyter Notebook.
 
 Summary tables and visualizations are also included.
 
-📄 License
-------------
-This project is licensed under the MIT License.
+
 
