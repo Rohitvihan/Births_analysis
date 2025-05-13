@@ -14,19 +14,19 @@ The data used in this project is from the CDC, containing details on births reco
 
 🎯 Objectives
 --------------
-Calculate the total number of US births by year and gender.
+* Calculate the total number of US births by year and gender.
 
-Determine the average daily births by day of the week and decade.
+* Determine the average daily births by day of the week and decade.
 
-Find the average daily births by date.
+* Find the average daily births by date.
 
 🛠️ Technologies Used
 ---------------------
-Python
+* Python
 
-Pandas for data manipulation and analysis
+* Pandas for data manipulation and analysis
 
-Jupyter Notebook for code execution
+* Jupyter Notebook for code execution
 
 
 
