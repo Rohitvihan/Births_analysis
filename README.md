@@ -28,7 +28,7 @@ Pandas for data manipulation and analysis
 
 Jupyter Notebook for code execution
 
------------------------------------------
+
 
 Data Analysis
 ---------------
